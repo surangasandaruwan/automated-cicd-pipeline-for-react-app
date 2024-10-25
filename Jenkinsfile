@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hey It's Our react app
+                echo 'Hey Its Our react app'
             }
         }
     }
